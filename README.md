@@ -1,4 +1,4 @@
-Readme file for Minesweeper Robot Game implemented using Haskell:
+# Minesweeper Robot Game in Haskell
 
 Overview:
 The Minesweeper Robot game is implemented in Haskell programming language. The game consists of a grid with mines hidden in it, and the player needs to collect all the mines without stepping on them. The player in the game is represented by a robot that moves around the grid and collects the mines. The implementation includes various functions to manipulate the state of the game and return the resulting state.
